@@ -65,7 +65,7 @@ docs/                 cableado y guías
 - [x] v1: caritas, Pomodoro, avisos de Calendar, mareo, personalidad, buzzer
 - [ ] v2: voz con amplificador MAX98357A y parlante
 - [ ] Indicador de batería
-- [ ] Carcasa 3D (diseño de Alyssa)
+- [ ] Case 3D 
 
 ---
 
