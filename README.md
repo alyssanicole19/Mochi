@@ -1,6 +1,6 @@
 # Mochi 🍡
 
-**Mochi es un pequeño robot de escritorio que te ayuda a organizarte… con personalidad.**
+**Mochi es un pequeño robot de escritorio que te ayuda a organizarte con personalidad.**
 Te avisa de tus eventos de Google Calendar, te acompaña en tus Pomodoros, se pone feliz
 cuando lo tocas, se enoja si lo molestas demasiado y se marea si lo haces girar.
 
